@@ -1,0 +1,1 @@
+Meu objetivo com esse repo, é praticar o aprendizado ativo, através do estudo da lib redux.
